@@ -1,0 +1,28 @@
+.customButton2 {
+    width: 43px;
+    height: 43px;
+    letter-spacing: -0.5px;
+    /* background-color: transparent;
+    border: 1px solid #b7b7b7; */
+    cursor: pointer;
+    font-size: 12px;
+    color: #000;
+    font-weight: 700;
+    border-radius: .4rem;
+
+    padding-left: 6px;
+    padding-right: 6px;
+    }
+
+.activeButton2{
+    /* background-color: rgb(25, 26, 24); */
+    color: Black;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    }
+
+/* .customButton2:hover {
+    background-color: gray;
+    color: white; 
+     text-decoration: underline;
+} */

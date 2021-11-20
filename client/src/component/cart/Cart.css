@@ -1,0 +1,15 @@
+.floatRight {
+   text-align: right;
+   margin-right: 30px;
+   margin-bottom: 30px;
+  }
+
+.boldText {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.centerCartText {
+  text-align: center;
+}
+  

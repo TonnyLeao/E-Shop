@@ -1,0 +1,29 @@
+.reviewBackgroundColor{
+    background-color: #f5f5f5;
+    font-size: 14px;
+    padding: 2.8%;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.starSize {
+    font-size: 20px;
+}
+
+.rowFix {
+    --bs-gutter-x: 0;
+}
+
+hr.new1 {
+    border-top: 1px dashed #ddd;
+  }
+
+.reviewTextBold {
+    font-weight: 700;
+}
+
+.reviewTextComment {
+    color: #767676;
+}

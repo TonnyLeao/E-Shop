@@ -1,0 +1,56 @@
+.cartImg {
+    width: 100%;
+    height: auto;
+  }
+  
+
+  .addLeftCartButton {
+    letter-spacing: 0.5px;
+    background-color: black;
+    border: 1px solid #b7b7b7;
+    cursor: pointer;
+    font-size: 12px;
+    color: white;
+    font-weight: 400;
+    border-radius: .6rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    }
+
+.addLeftCartButton:hover {
+    background-color: gray;
+}
+
+.addRightCartButton {
+  letter-spacing: 0.5px;
+  background-color: black;
+  border: 1px solid #b7b7b7;
+  cursor: pointer;
+  font-size: 12px;
+  color: white;
+  font-weight: 400;
+  border-radius: .6rem;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+  }
+
+.addRightCartButton:hover {
+  background-color: gray;
+}
+
+.reviewCartText {
+  font-size: 13px;
+}
+
+.reviewCartTextBold {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.reviewCartTextTitle {
+  font-size: 14px;
+}

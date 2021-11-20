@@ -1,0 +1,38 @@
+.centerLoginText {
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+}
+
+.reduceHeaderMargin {
+    padding-bottom: 0;
+}
+
+.largerButton {
+    width: 90% !important;
+    margin-left: 23px !important;
+    text-decoration: none !important;
+}
+
+.createAccountButton {
+    letter-spacing: 0.5px;
+    background-color: white;
+    border: 1px solid black;
+    cursor: pointer;
+    font-size: 14px;
+    color:black;
+    font-weight: 700;
+    border-radius: .4rem;
+    padding: 7px;
+    width: 80%;
+}
+
+.createAccountButton:hover {
+    color: rgb(133, 133, 133);
+    border: 1px solid rgb(133, 133, 133);
+    
+}
+
+.anchorRemove {
+    text-decoration: none;
+}

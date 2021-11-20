@@ -1,0 +1,29 @@
+.btnWide {
+    width: 100%;
+}
+
+.checkoutProgressDone {
+    border: 1px solid black;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+.checkoutProgressLeft {
+    border: 1px solid Gray;
+    text-align: center;
+    background-color: Gray;
+    color: white;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+.checkoutProgressBar {
+    margin-top: 20%;
+}
+
+.checkoutRow {
+    --bs-gutter-x: 0rem;
+}

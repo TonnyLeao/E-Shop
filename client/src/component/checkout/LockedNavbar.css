@@ -1,0 +1,55 @@
+.paymentLockSize {
+    font-size: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10%;
+}
+
+.paymentLockFont {
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.paymentLockItem {
+    font-size: 28px;
+    font-weight: 500;
+    color: gray;
+}
+
+.dropDownLocked {
+    width: auto;
+    height: auto;
+  }
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+.nav-link {
+    color: black;
+    font-size: 20px;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.nav-link:focus {
+    color: black;
+}
+
+.lockoutButton {
+    letter-spacing: 1.5px;
+    background-color: black;
+    border: 1px solid #b7b7b7;
+    cursor: pointer;
+    font-size: 13px;
+    color: white;
+    font-weight: 400;
+    border-radius: .4rem;
+    padding: 10px;
+    }
+
+    .lockoutButton:hover {
+        background-color: gray;
+    }

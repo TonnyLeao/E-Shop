@@ -1,0 +1,67 @@
+.sizeModalBackGround{ 
+    background-color: #b7b7b7;
+    margin: 1px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 14px;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+  
+}
+
+table td:nth-child(2n) {
+    background-color: #f4f4f4;
+}
+
+.modalSize {
+    height: 50%;
+    margin-top: 15%;
+}
+
+.tableWidth {
+    width: 50%;
+}
+
+.sizeModalHeaderFont {
+    font-size: 20px;
+}
+
+.sizeModalSubHeaderFont {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.sizeModalBodyFont {
+    font-size: 13px;
+}
+
+.sizeModalNumberFont {
+    font-size: 14px;
+}
+
+.sizeModalTextCenter {
+    text-align: center;
+}
+
+.sizeModalTopHeaderFont {
+    font-size: 26px;
+    margin-bottom: 3px;
+}
+
+.modal-headerNoBorder {
+    border-bottom: none;
+}
+
+.btn-close {
+    font-size: 12px;
+}
+
+
+

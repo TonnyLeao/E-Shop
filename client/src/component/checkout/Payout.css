@@ -1,0 +1,62 @@
+.payoutAddressText {
+    font-size: 14px;
+}
+
+.payoutImg {
+    width: 90px;
+    height: auto;
+    
+  }
+
+.payoutMarginLeft {
+    margin-left: 20%
+}
+
+.payoutOrderText {
+    font-size: 13px;
+}
+
+.payoutTextFloatRight {
+    float: right;
+}
+
+.payoutBorder {
+    border: 1px solid 	#E0E0E0;
+    border-radius: 5px;
+}
+
+.payoutHr {
+    opacity: .15;
+    margin-top: 0px;
+}
+
+.payoutLeft {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.payoutTotalBold {
+    font-weight: 700;
+}
+
+.payoutChangeText {
+    font-size: 12px;
+    float: right;
+    text-decoration: none;
+    padding-top: 20px;
+    cursor: pointer;
+    color: black;
+}
+
+.payoutChangeText:hover{
+    color: gray;
+}
+
+.payoutIconSize {
+    font-size: 60px;
+}
+
+.payputIconButton {
+    background-color: transparent;
+    border: none;
+}

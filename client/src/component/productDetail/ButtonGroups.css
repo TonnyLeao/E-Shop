@@ -1,0 +1,28 @@
+.customButton1 {
+    width: 43px;
+    height: 43px;
+    letter-spacing: 0.5px;
+    background-color: transparent;
+    border: 1px solid #b7b7b7;
+    cursor: pointer;
+    font-size: 14px;
+    color: #000;
+    font-weight: 400;
+    border-radius: .4rem;
+    margin-right: 6px;
+    margin-bottom: 6px;
+    }
+
+.activeButton1{
+    background-color: rgb(25, 26, 24);
+    color: white;
+    }
+
+.customButton1:hover {
+    background-color: gray;
+    color: white;
+}
+
+
+
+

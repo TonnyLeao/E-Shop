@@ -1,0 +1,1251 @@
+[
+    {
+        "name": "Super Skinny Faded Gray Temp Control Hyper Stretch Jeans",
+        "gender": "Male",
+        "price": 49.99,
+        "description": "Super Skinny Faded Gray Temp Control Hyper Stretch Jeans",
+        "ratings": 4.5,
+        "color":"Gray",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402423/Express/Men/Men Jeans/menJeans1_gv5dcs.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402423/Express/Men/Men%20Jeans/menJeans1-1_yij1jy.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402423/Express/Men/Men%20Jeans/menJeans1-2_yxkg5q.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Skinny Ripped Medium Wash 4-Way Hyper Stretch Jeans",
+        "gender": "Male",
+        "price": 39.99,
+        "description": "Skinny Ripped Medium Wash 4-Way Hyper Stretch Jeans",
+        "ratings": 3.5,
+        "color":"Blue",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402423/Express/Men/Men%20Jeans/menJeans2_wz7r8v.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402423/Express/Men/Men%20Jeans/menJeans2-1_adqdfy.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402423/Express/Men/Men%20Jeans/menJeans2-2_ldmuyj.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Slim Light Wash FlexX Jeans",
+        "gender": "Male",
+        "price": 29.99,
+        "description": "Slim Light Wash FlexX Jeans",
+        "ratings": 4.5,
+        "color":"Blue",
+        "images": [
+            {
+                "public_id": "v16294024241",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans3_dbvui7.webp"
+            },
+            {
+                "public_id": "v16294024242",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans3-1_wcosfq.webp"
+            },
+            {
+                "public_id": "v16294024243",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans3-2_mult2g.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Skinny Black Hyper Stretch Jeans",
+        "gender": "Male",
+        "price": 29.99,
+        "description": "Skinny Black Hyper Stretch Jeans",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294050311",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629405031/Express/Men/Men%20Jeans/menJeans4_tgqwrt.webp"
+            },
+            {
+                "public_id": "v16294050312",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans4-1_rkn9sk.webp"
+            },
+            {
+                "public_id": "v16294050313",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans4-2_urprol.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Bootcut Medium Wash Hyper Stretch Jeans",
+        "gender": "Male",
+        "price": 49.99,
+        "description": "Bootcut Medium Wash Hyper Stretch Jeans",
+        "ratings": 4.5,
+        "color":"Blue",
+        "images": [
+            {
+                "public_id": "v16294024241",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans5_kwcsve.webp"
+            },
+            {
+                "public_id": "v16294024242",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans5-1_pmhies.webp"
+            },
+            {
+                "public_id": "v16294024243",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans5-2_nub8u7.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Skinny White Destroyed Temp Control Hyper Stretch Jeans",
+        "gender": "Male",
+        "price": 59.99,
+        "description": "Skinny White Destroyed Temp Control Hyper Stretch Jeans",
+        "ratings": 4.5,
+        "color":"White",
+        "images": [
+            {
+                "public_id": "v16294024241",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans6_mqc8qq.webp"
+            },
+            {
+                "public_id": "v16294024242",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans6-1_kiww66.webp"
+            },
+            {
+                "public_id": "v16294024243",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402424/Express/Men/Men%20Jeans/menJeans6-2_xidbhc.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Mid Rise Light Pink Skinny Jeans",
+        "gender": "Female",
+        "price": 29.99,
+        "description": "Mid Rise Light Pink Skinny Jeans",
+        "ratings": 4.5,
+        "color":"Pink",
+        "images": [
+            {
+                "public_id": "v16294024471",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402447/Express/Women/Women%20Jeans/womenJeans1_thbhao.webp"
+            },
+            {
+                "public_id": "v16294024472",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402447/Express/Women/Women%20Jeans/womenJeans1-2_x04pv2.webp"
+            },
+            {
+                "public_id": "v16294024473",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402447/Express/Women/Women%20Jeans/womenJeans1-1_da7azh.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Super High Waisted Black Cropped Straight Jeans",
+        "gender": "Female",
+        "price": 39.99,
+        "description": "Super High Waisted Black Cropped Straight Jeans",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024471",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402447/Express/Women/Women%20Jeans/womenJeans2_efblc7.webp"
+            },
+            {
+                "public_id": "v16294024472",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402447/Express/Women/Women%20Jeans/womenJeans2-1_gpurd0.webp"
+            },
+            {
+                "public_id": "v16294024473",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402447/Express/Women/Women%20Jeans/womenJeans2-2_glvzhh.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "High Waisted FlexX Faded Gray Raw Hem Skinny Jeans",
+        "gender": "Female",
+        "price": 69.99,
+        "description": "High Waisted FlexX Faded Gray Raw Hem Skinny Jeans",
+        "ratings": 4.5,
+        "color":"Gray",
+        "images": [
+            {
+                "public_id": "v16294024241",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans3_brdy1k.webp"
+            },
+            {
+                "public_id": "v16294024242",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans3-1_jdfbsh.webp"
+            },
+            {
+                "public_id": "v16294024243",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans3-2_usvk0i.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "High Waisted Black Flare Jeans",
+        "gender": "Female",
+        "price": 39.99,
+        "description": "High Waisted Black Flare Jeans",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294158711",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629415871/Express/Women/Women%20Jeans/womenJeans4_q2i6rh.webp"
+            },
+            {
+                "public_id": "v16294158712",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans4-1_dmsm5p.webp"
+            },
+            {
+                "public_id": "v16294158713",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans4-2_g5jbyk.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Mid Rise Rolled Hem Ripped Boyfriend Jean",
+        "gender": "Female",
+        "price": 59.99,
+        "description": "Mid Rise Rolled Hem Ripped Boyfriend Jean",
+        "ratings": 4.5,
+        "color":"Blue",
+        "images": [
+            {
+                "public_id": "v16294024241",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans5_idgjvp.webp"
+            },
+            {
+                "public_id": "v16294024242",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans5-1_tyywqd.webp"
+            },
+            {
+                "public_id": "v16294024243",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans5-2_elqnbu.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Super High Waisted Black Ripped Slim Jeans",
+        "gender": "Female",
+        "price": 49.99,
+        "description": "Super High Waisted Black Ripped Slim Jeans",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024241",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans6_uhqqbs.webp"
+            },
+            {
+                "public_id": "v16294024242",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans6-1_rr8dpv.webp"
+            },
+            {
+                "public_id": "v16294024243",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1629402448/Express/Women/Women%20Jeans/womenJeans6-2_sm7y49.webp"
+            }
+        ],
+        "category": "Jeans",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Solid Stretch Crew Neck Sweater",
+        "gender": "Male",
+        "price": 29.99,
+        "description": "Solid Stretch Crew Neck Sweater",
+        "ratings": 4.5,
+        "color":"White",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634497810/Express/Men/Men%20Sweater/menSweater1-1_alnmcp.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634497853/Express/Men/Men%20Sweater/menSweater1-2_ziqbpa.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634497855/Express/Men/Men%20Sweater/menSweater1-3_ttwtic.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Solid Shawl Collar Sweater",
+        "gender": "Male",
+        "price": 39.99,
+        "description": "Solid Shawl Collar Sweater",
+        "ratings": 4.5,
+        "color":"White",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634497920/Express/Men/Men%20Sweater/menSweater2-1_vncden.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634497922/Express/Men/Men%20Sweater/menSweater2-2_dudtti.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634497924/Express/Men/Men%20Sweater/menSweater2-3_banbup.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Solid Merino Wool Turtleneck Sweater",
+        "gender": "Male",
+        "price": 49.99,
+        "description": "Solid Merino Wool Turtleneck Sweater",
+        "ratings": 4.5,
+        "color":"Blue",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634497992/Express/Men/Men%20Sweater/menSweater3-1_wtzbu4.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634497990/Express/Men/Men%20Sweater/menSweater3-2_lpnnqt.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634497994/Express/Men/Men%20Sweater/menSweater3-3_wybjf1.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Solid Waffle Knit Henley Sweater",
+        "gender": "Male",
+        "price": 29.99,
+        "description": "Solid Waffle Knit Henley Sweater",
+        "ratings": 4.5,
+        "color":"Green",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634498047/Express/Men/Men%20Sweater/menSweater4-1_zp6xvb.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634498049/Express/Men/Men%20Sweater/menSweater4-2_hoo9qv.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634498051/Express/Men/Men%20Sweater/menSweater4-3_cb2ytc.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Solid Seed Stitch Crew Neck Sweater",
+        "gender": "Male",
+        "price": 39.99,
+        "description": "Solid Seed Stitch Crew Neck Sweater",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634498115/Express/Men/Men%20Sweater/menSweater5-1_kugbxb.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634498117/Express/Men/Men%20Sweater/menSweater5-2_umjkxn.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634498119/Express/Men/Men%20Sweater/menSweater5-3_gvuvxy.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Windowpane Cotton Crewneck Sweater",
+        "gender": "Male",
+        "price": 49.99,
+        "description": "Windowpane Cotton Crewneck Sweater",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634498180/Express/Men/Men%20Sweater/menSweater6-1_kbzxri.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634498182/Express/Men/Men%20Sweater/menSweater6-2_kuvbnz.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634498184/Express/Men/Men%20Sweater/menSweater6-3_wqyv4e.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "CRESCENT Arielle Cold Shoulder Sweater",
+        "gender": "Female",
+        "price": 49.99,
+        "description": "CRESCENT Arielle Cold Shoulder Sweater",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501259/Express/Women/Women%20Sweaters/womenSweater1-1_qrhabc.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501261/Express/Women/Women%20Sweaters/womenSweater1-2_mavnpw.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501257/Express/Women/Women%20Sweaters/womenSweater1-3_zxhrkb.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Ribbed Dolman Sleeve Sweater",
+        "gender": "Female",
+        "price": 39.99,
+        "description": "Ribbed Dolman Sleeve Sweater",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501269/Express/Women/Women%20Sweaters/womenSweater2-1_o1m0wt.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501271/Express/Women/Women%20Sweaters/womenSweater2-2_hp74oe.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501267/Express/Women/Women%20Sweaters/womenSweater2-3_v3uqmy.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Off The Shoulder Tunic Sweater",
+        "gender": "Female",
+        "price": 29.99,
+        "description": "Off The Shoulder Tunic Sweater",
+        "ratings": 4.5,
+        "color":"Pink",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501279/Express/Women/Women%20Sweaters/womenSweater3-1_kyheri.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501281/Express/Women/Women%20Sweaters/womenSweater3-2_aj0nep.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501276/Express/Women/Women%20Sweaters/womenSweater3-3_yqvf7a.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Cozy Twist Sweater",
+        "gender": "Female",
+        "price": 39.99,
+        "description": "Cozy Twist Sweater",
+        "ratings": 4.5,
+        "color":"Pink",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501287/Express/Women/Women%20Sweaters/womenSweater4-1_hysm85.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501289/Express/Women/Women%20Sweaters/womenSweater4-2_k3nfgd.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501285/Express/Women/Women%20Sweaters/womenSweater4-3_j7cgc4.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Seamed V-Neck Tunic Sweater",
+        "gender": "Female",
+        "price": 29.99,
+        "description": "Seamed V-Neck Tunic Sweater",
+        "ratings": 4.5,
+        "color":"Maroon",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501298/Express/Women/Women%20Sweaters/womenSweater5-1_jkdkhk.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501294/Express/Women/Women%20Sweaters/womenSweater5-2_iok6gb.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501296/Express/Women/Women%20Sweaters/womenSweater5-3_ipucsc.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Ribbed Fitted Turtleneck Sweater",
+        "gender": "Female",
+        "price": 39.99,
+        "description": "Ribbed Fitted Turtleneck Sweater",
+        "ratings": 4.5,
+        "color":"White",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501304/Express/Women/Women%20Sweaters/womenSweater6-1_sruheo.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501306/Express/Women/Women%20Sweaters/womenSweater6-2_kgbcyi.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634501302/Express/Women/Women%20Sweaters/womenSweater6-3_gc0nbq.webp"
+            }
+        ],
+        "category": "Sweaters",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Gray Express Graphic Long Sleeve T-Shirt",
+        "gender": "Male",
+        "price": 29.99,
+        "description": "Gray Express Graphic Long Sleeve T-Shirt",
+        "ratings": 4.5,
+        "color":"Gray",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503113/Express/Men/Men%20Shirts/menShirt1-1_aqosod.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503115/Express/Men/Men%20Shirts/menShirt1-2_obiqxq.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503112/Express/Men/Men%20Shirts/menShirt1-3_wglaua.webp"
+            }
+        ],
+        "category": "Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Green Geo Print Long Sleeve Graphic T-Shirt",
+        "gender": "Male",
+        "price": 39.99,
+        "description": "Green Geo Print Long Sleeve Graphic T-Shirt",
+        "ratings": 4.5,
+        "color":"Green",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503125/Express/Men/Men%20Shirts/menShirt2-1_pcqbpo.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503121/Express/Men/Men%20Shirts/menShirt2-2_hurhwn.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503123/Express/Men/Men%20Shirts/menShirt2-3_clcosc.webp"
+            }
+        ],
+        "category": "Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Solid Essential Crew Neck T-Shirt",
+        "gender": "Male",
+        "price": 29.99,
+        "description": "Solid Essential Crew Neck T-Shirt",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503133/Express/Men/Men%20Shirts/menShirt3-1_f1tjtx.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503129/Express/Men/Men%20Shirts/menShirt3-2_ssixh0.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503131/Express/Men/Men%20Shirts/menShirt3-3_d6fr4b.webp"
+            }
+        ],
+        "category": "Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Solid Turtleneck T-Shirt",
+        "gender": "Male",
+        "price": 69.99,
+        "description": "Solid Turtleneck T-Shirt",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503139/Express/Men/Men%20Shirts/menShirt4-1_qho7am.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503141/Express/Men/Men%20Shirts/menShirt4-2_pmwu41.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503137/Express/Men/Men%20Shirts/menShirt4-3_qcdwsh.webp"
+            }
+        ],
+        "category": "Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Solid Moisture-Wicking Performance Short Sleeve",
+        "gender": "Male",
+        "price": 39.99,
+        "description": "Solid Moisture-Wicking Performance Short Sleeve",
+        "ratings": 4.5,
+        "color":"White",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503151/Express/Men/Men%20Shirts/menShirt5-1_qeiymn.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503147/Express/Men/Men%20Shirts/menShirt5-2_cpyduj.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503149/Express/Men/Men%20Shirts/menShirt5-3_ke8pcb.webp"
+            }
+        ],
+        "category": "Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "White Pieced Logo Graphic T-Shirt",
+        "gender": "Male",
+        "price": 29.99,
+        "description": "White Pieced Logo Graphic T-Shirt",
+        "ratings": 4.5,
+        "color":"White",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503158/Express/Men/Men%20Shirts/menShirt6-1_emvpg5.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503160/Express/Men/Men%20Shirts/menShirt6-2_wkymn2.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634503156/Express/Men/Men%20Shirts/menShirt6-3_m5kffv.webp"
+            }
+        ],
+        "category": "Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Solid Ruched Twist Front Long Sleeve Tee",
+        "gender": "Female",
+        "price": 29.99,
+        "description": "Solid Ruched Twist Front Long Sleeve Tee",
+        "ratings": 4.5,
+        "color":"Green",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504727/Express/Women/Women%20Tops/womenTop1-1_ga4gtr.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504723/Express/Women/Women%20Tops/womenTop1-2_vkwprz.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504725/Express/Women/Women%20Tops/womenTop1-3_jyot4r.webp"
+            }
+        ],
+        "category": "Tops",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Satin Banded Bottom Cowl Neck Top",
+        "gender": "Female",
+        "price": 39.99,
+        "description": "Satin Banded Bottom Cowl Neck Top",
+        "ratings": 4.5,
+        "color":"Purple",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504736/Express/Women/Women%20Tops/womenTop2-1_kkypdp.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504732/Express/Women/Women%20Tops/womenTop2-2_j9whfc.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504734/Express/Women/Women%20Tops/womenTop2-3_n8xcm3.webp"
+            }
+        ],
+        "category": "Tops",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Lace And Leather Cropped Top",
+        "gender": "Female",
+        "price": 69.99,
+        "description": "Lace And Leather Cropped Top",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504745/Express/Women/Women%20Tops/womenTop3-1_euwtmh.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504741/Express/Women/Women%20Tops/womenTop3-2_ui20cb.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504743/Express/Women/Women%20Tops/womenTop3-3_ndml7h.webp"
+            }
+        ],
+        "category": "Tops",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Ruffle Off The Shoulder Top",
+        "gender": "Female",
+        "price": 39.99,
+        "description": "Ruffle Off The Shoulder Top",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504754/Express/Women/Women%20Tops/womenTop4-1_syyqc8.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504750/Express/Women/Women%20Tops/womenTop4-2_zon6xv.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504752/Express/Women/Women%20Tops/womenTop4-3_q2qeb5.webp"
+            }
+        ],
+        "category": "Tops",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Sheer Floral Organza Sleeve Crew Neck Top",
+        "gender": "Female",
+        "price": 69.99,
+        "description": "Sheer Floral Organza Sleeve Crew Neck Top",
+        "ratings": 4.5,
+        "color":"White",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504762/Express/Women/Women%20Tops/womenTop5-1_krlirk.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504758/Express/Women/Women%20Tops/womenTop5-2_z8rj74.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504760/Express/Women/Women%20Tops/womenTop5-3_oktzyu.webp"
+            }
+        ],
+        "category": "Tops",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Ribbed Faux Wrap Tie Waist Long Sleeve Top",
+        "gender": "Female",
+        "price": 29.99,
+        "description": "Ribbed Faux Wrap Tie Waist Long Sleeve Top",
+        "ratings": 4.5,
+        "color":"White",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504772/Express/Women/Women%20Tops/womenTop6-1_khpcab.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504774/Express/Women/Women%20Tops/womenTop6-2_owminn.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634504770/Express/Women/Women%20Tops/womenTop6-3_zkxytt.webp"
+            }
+        ],
+        "category": "Tops",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Slim Black Hyper Stretch Denim Shirt",
+        "gender": "Male",
+        "price": 39.99,
+        "description": "Slim Black Hyper Stretch Denim Shirt",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506460/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt1-1_nmu9jx.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506457/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt1-2_bk9xzv.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506458/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt1-3_zlxsyl.webp"
+            }
+        ],
+        "category": "Button Down Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    },
+    {
+        "name": "Slim Dot Print Stretch Corduroy Shirt",
+        "gender": "Male",
+        "price": 49.99,
+        "description": "Slim Dot Print Stretch Corduroy Shirt",
+        "ratings": 4.5,
+        "color":"Red",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506470/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt2-1_n7cm6h.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506466/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt2-2_auz8gr.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506468/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt2-3_krjfmj.webp"
+            }
+        ],
+        "category": "Button Down Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Slim Solid Stretch Oxford Shirt",
+        "gender": "Male",
+        "price": 49.99,
+        "description": "Slim Solid Stretch Oxford Shirt",
+        "ratings": 4.5,
+        "color":"Blue",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506479/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt3-1_xlvlgb.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506475/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt3-2_gqfvtb.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506477/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt3-3_bvaho9.webp"
+            }
+        ],
+        "category": "Button Down Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Slim Solid Stretch Lightweight Cotton Short Sleeve Shirt",
+        "gender": "Male",
+        "price": 29.99,
+        "description": "Slim Solid Stretch Lightweight Cotton Short Sleeve Shirt",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506489/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt4-1_an9szv.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506485/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt4-2_qgszec.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506487/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt4-3_kyx9dn.webp"
+            }
+        ],
+        "category": "Button Down Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Slim Plaid Shirt",
+        "gender": "Male",
+        "price": 59.99,
+        "description": "Slim Plaid Shirt",
+        "ratings": 4.5,
+        "color":"Gray",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506499/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt5-1_jj9xt5.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506495/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt5-2_eneneu.jpg"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506497/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt5-3_ra8jtr.webp"
+            }
+        ],
+        "category": "Button Down Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Slim Solid Stretch Flannel Shirt",
+        "gender": "Male",
+        "price": 39.99,
+        "description": "Slim Solid Stretch Flannel Shirt",
+        "ratings": 4.5,
+        "color":"Gray",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506508/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt6-1_dg9ug6.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506504/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt6-2_hdhpki.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634506506/Express/Men/Men%20Button%20Down%20Shirts/menButtonDownShirt6-3_l6wlfi.webp"
+            }
+        ],
+        "category": "Button Down Shirts",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Ruffle Wrap Fit And Flare Dress",
+        "gender": "Female",
+        "price": 39.99,
+        "description": "Ruffle Wrap Fit And Flare Dress",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509561/Express/Women/Women%20Dresses/womenDress1-1_n8o5d4.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509557/Express/Women/Women%20Dresses/womenDress1-2_eu3ibm.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509559/Express/Women/Women%20Dresses/womenDress1-3_mxakab.webp"
+            }
+        ],
+        "category": "Dresses",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Puff Sleeve Sheath Dress",
+        "gender": "Female",
+        "price": 59.99,
+        "description": "Puff Sleeve Sheath Dress",
+        "ratings": 4.5,
+        "color":"Black",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509570/Express/Women/Women%20Dresses/womenDress2-1_mti5hh.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509566/Express/Women/Women%20Dresses/womenDress2-2_zvpydh.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509568/Express/Women/Women%20Dresses/womenDress2-3_td6gmk.webp"
+            }
+        ],
+        "category": "Dresses",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Balloon Sleeve Fit And Flare Dress",
+        "gender": "Female",
+        "price": 39.99,
+        "description": "Balloon Sleeve Fit And Flare Dress",
+        "ratings": 4.5,
+        "color":"White",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509578/Express/Women/Women%20Dresses/womenDress3-1_vhbdr9.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509574/Express/Women/Women%20Dresses/womenDress3-2_x0whu4.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509576/Express/Women/Women%20Dresses/womenDress3-3_ktrzv8.webp"
+            }
+        ],
+        "category": "Dresses",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Draped Mock Neck Midi Sheath Dress",
+        "gender": "Female",
+        "price": 89.99,
+        "description": "Draped Mock Neck Midi Sheath Dress",
+        "ratings": 4.5,
+        "color":"White",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509588/Express/Women/Women%20Dresses/womenDress4-1_jdq40j.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509584/Express/Women/Women%20Dresses/womenDress4-2_ht2psm.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509586/Express/Women/Women%20Dresses/womenDress4-3_imn1qo.webp"
+            }
+        ],
+        "category": "Dresses",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Satin Cowl Neck Midi Slip Dress",
+        "gender": "Female",
+        "price": 79.99,
+        "description": "Satin Cowl Neck Midi Slip Dress",
+        "ratings": 4.5,
+        "color":"Purple",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509596/Express/Women/Women%20Dresses/womenDress5-1_relgdp.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509592/Express/Women/Women%20Dresses/womenDress5-2_xdsxup.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509594/Express/Women/Women%20Dresses/womenDress5-3_tpb80e.webp"
+            }
+        ],
+        "category": "Dresses",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }, 
+    {
+        "name": "Square Neck Wrap Sheath Dress",
+        "gender": "Female",
+        "price": 29.99,
+        "description": "Square Neck Wrap Sheath Dress",
+        "ratings": 4.5,
+        "color":"Blue",
+        "images": [
+            {
+                "public_id": "v16294024231",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509603/Express/Women/Women%20Dresses/womenDress6-1_leitkh.webp"
+            },
+            {
+                "public_id": "v16294024232",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509605/Express/Women/Women%20Dresses/womenDress6-2_qbmcii.webp"
+            },
+            {
+                "public_id": "v16294024233",
+                "url": "https://res.cloudinary.com/dpjcaw4xb/image/upload/v1634509601/Express/Women/Women%20Dresses/womenDress6-3_b4d7gg.webp"
+            }
+        ],
+        "category": "Dresses",
+        "stock": 50,
+        "numOfReviews": 32,
+        "reviews": []
+    }
+]
+    

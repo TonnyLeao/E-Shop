@@ -1,0 +1,19 @@
+.topBackgroundColor {
+    background-color: #D5D9D9;
+    font-size: 12px;
+}
+
+.alignRight {
+    text-align: right;
+    margin-right: 10px;
+}
+
+.imageSize {
+    width: 50%;
+    height: auto;
+}
+
+.containerOutline {
+    outline: 1px solid #D5D9D9;
+}
+

@@ -1,0 +1,45 @@
+/* .modal-backdrop {
+    background-color: rgba(0,0,0,.0001) !important;
+} */
+
+.priceText {
+    font-size: 22px;
+    margin-top: -10px;
+}
+
+.productNameText {
+    font-size: 22px;
+    color: #222;
+    margin-top: -10px;
+}
+
+.buttonSpace {
+    margin-top: -15px;
+    margin-left: -5px;
+}
+
+.addButton {
+    letter-spacing: 0.5px;
+    background-color: black;
+    border: 1px solid #b7b7b7;
+    cursor: pointer;
+    font-size: 14px;
+    color: white;
+    font-weight: 400;
+    border-radius: .4rem;
+    padding: 10px;
+    }
+
+.addButton:hover {
+    background-color: gray;
+}
+
+.viewFullDetail {
+    font-size: 13px;
+    color: black;
+    text-decoration: none;
+}
+
+.viewFullDetail a {
+    text-decoration: none;
+}

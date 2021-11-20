@@ -1,0 +1,12 @@
+.loginErrorText {
+    color: red;
+}
+
+.loginText {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.loginButton {
+    width: 100%;
+}
