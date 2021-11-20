@@ -107,9 +107,11 @@ require('./routes/authRoutes')(app);
 //     res.sendFile(path.resolve(__dirname, '../client/build', 'index.html'));
 //   });
 
-router.get('/', function(req, res, next) {
-    res.sendFile(path.join(__dirname, '../public', 'index.html'));
-});
+app.use(express.static(path.join(__dirname, 'public')));
+
+// router.get('/', function(req, res, next) {
+//     res.sendFile(path.join(__dirname, '../public', 'index.html'));
+// });
 
 
 const PORT = process.env.PORT || 5000;
