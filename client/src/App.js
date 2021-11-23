@@ -143,212 +143,197 @@ function App() {
         <Elements stripe={loadStripe(stripeApiKey)}>
           <NavBarComp auth={auth}></NavBarComp>
         </Elements>} */}
-        <NavBarComp auth={auth}></NavBarComp>
+        {/* <NavBarComp auth={auth}></NavBarComp> */}
       <Switch>
         <Route path='/' exact>
-          {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+          
+            
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+            
           <Home></Home>
         </Route>
 
         <Route path='/men' exact>
-          {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+          
+            
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+            
           {product && <Shop image={findMaleProduct()} gender="men" />}
         </Route>
 
         <Route path='/men/jeans' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+        
+            
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+            
           {product && <Shop image={findMaleJeansProduct()} gender="men" cloth="jeans" />}
         </Route>
 
         <Route path='/men/shirts' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+        
+            
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+            
           {product && <Shop image={findMaleShirtsProduct()} gender="men" cloth="shirts" />}
         </Route>
 
         <Route path='/men/sweaters' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+        
+            
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+            
           {product && <Shop image={findMaleSweatersProduct()} gender="men" cloth="sweaters" />}
         </Route>
 
         <Route path='/men/buttonDownShirts' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+        
+            
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+           
           {product && <Shop image={findMaleButtonDownProduct()} gender="men" cloth="buttonDownShirts" />}
         </Route>
 
         <Route path='/men/jeans/:productId'>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+       
+           
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+            
           {product && <ProductDetail image={findMaleJeansProduct()}></ProductDetail>}
         </Route>
 
         <Route path='/men/shirts/:productId'>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+       
+            
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+            
           {product && <ProductDetail image={findMaleShirtsProduct()}></ProductDetail>}
         </Route>
 
         <Route path='/men/sweaters/:productId'>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+        
+           
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+            
           {product && <ProductDetail image={findMaleSweatersProduct()}></ProductDetail>}
         </Route>
 
         <Route path='/men/buttonDownShirts/:productId'>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+           
           {product && <ProductDetail image={findMaleButtonDownProduct()}></ProductDetail>}
         </Route>
 
         <Route path='/men/:detailId'>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+        
           {product && <ProductDetail image={findMaleProduct()}></ProductDetail>}
         </Route>
 
         <Route path='/women/jeans' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+     
           {product && <Shop image={findFemaleJeansProduct()} gender="women" cloth="jeans" />}
         </Route>
 
         <Route path='/women/sweaters' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           {product && <Shop image={findFemaleSweatersProduct()} gender="women" cloth="sweaters" />}
         </Route>
 
         <Route path='/women/tops' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           {product && <Shop image={findFemaleTopsProduct()} gender="women" cloth="tops" />}
         </Route>
 
         <Route path='/women/dresses' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           {product && <Shop image={findFemaleDressesProduct()} gender="women" cloth="dresses" />}
         </Route>
 
         <Route path='/women/jeans/:productId'>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           {product && <ProductDetail image={findFemaleJeansProduct()}></ProductDetail>}
         </Route>
 
         <Route path='/women/sweaters/:productId'>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           {product && <ProductDetail image={findFemaleSweatersProduct()}></ProductDetail>}
         </Route>
 
         <Route path='/women/tops/:productId'>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           {product && <ProductDetail image={findFemaleTopsProduct()}></ProductDetail>}
         </Route>
 
         <Route path='/women/dresses/:productId'>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           {product && <ProductDetail image={findFemaleDressesProduct()}></ProductDetail>}
         </Route>
 
         <Route path='/women' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           {product && <Shop image={findFemaleProduct()} gender="women" />}
         </Route>
 
         <Route path='/women/:detailId'>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           {product && <ProductDetail image={findFemaleProduct()}></ProductDetail>}
         </Route>
 
         <Route path='/success' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           <OrderSuccess></OrderSuccess>
         </Route>
+
         <Route path='/orders/me' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth}></NavBarComp>
-            </Elements>}
+
           {orderItems && auth && <MyOrders></MyOrders>}
         </Route>
 
         <Route path='/revieworder' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth} openModal={openModal} setOpenModal={setOpenModal}></NavBarComp>
-            </Elements>}
+
           <ReviewOrder></ReviewOrder>
         </Route>
 
         <Route path='/checkout' exact>
-        {stripeApiKey &&
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
               <NavBarComp auth={auth} openModal={openModal} setOpenModal={setOpenModal}></NavBarComp>
-            </Elements>}
+
           <CheckOut></CheckOut>
         </Route>
 
         <Route path='/payout' exact>
-          {stripeApiKey &&
+          {/* {stripeApiKey &&
             <Elements stripe={loadStripe(stripeApiKey)}>
               <Payout setOpenModal={setOpenModal}></Payout>
-            </Elements>}
+            </Elements>} */}
             <Elements stripe={loadStripe(stripeApiKey)}>
               <Payout setOpenModal={setOpenModal}></Payout>
             </Elements>
