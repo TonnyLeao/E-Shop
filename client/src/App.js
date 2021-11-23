@@ -349,6 +349,9 @@ function App() {
             <Elements stripe={loadStripe(stripeApiKey)}>
               <Payout setOpenModal={setOpenModal}></Payout>
             </Elements>}
+            <Elements stripe={loadStripe(stripeApiKey)}>
+              <Payout setOpenModal={setOpenModal}></Payout>
+            </Elements>
         </Route>
 
       </Switch>
