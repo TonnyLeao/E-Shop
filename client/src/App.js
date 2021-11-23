@@ -139,10 +139,10 @@ function App() {
 
   return (
     <div>
-      {/* {stripeApiKey &&
+      {stripeApiKey &&
         <Elements stripe={loadStripe(stripeApiKey)}>
           <NavBarComp auth={auth}></NavBarComp>
-        </Elements>} */}
+        </Elements>}
       <Switch>
         <Route path='/' exact>
           {stripeApiKey &&
