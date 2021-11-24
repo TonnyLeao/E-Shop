@@ -330,13 +330,13 @@ function App() {
         </Route>
 
         <Route path='/payout' exact>
-          {/* {stripeApiKey &&
+          {stripeApiKey &&
             <Elements stripe={loadStripe(stripeApiKey)}>
               <Payout setOpenModal={setOpenModal}></Payout>
-            </Elements>} */}
-            <Elements stripe={loadStripe(stripeApiKey)}>
+            </Elements>}
+            {/* <Elements stripe={loadStripe(stripeApiKey)}>
               <Payout setOpenModal={setOpenModal}></Payout>
-            </Elements>
+            </Elements> */}
         </Route>
 
       </Switch>

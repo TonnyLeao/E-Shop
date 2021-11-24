@@ -7,8 +7,9 @@ import Form from 'react-bootstrap/Form'
 import Paypal from "../checkout/Paypal";
 import { useHistory } from "react-router-dom";
 
-const axios = require('axios');
 
+
+const axios = require('axios');
 
 const Payment = (props) => {
 
@@ -210,6 +211,7 @@ const Payment = (props) => {
         <React.Fragment>
             {props.useStripe && cartOrder && <Form onSubmit={submitHandler}>
                 {/* Card Number */}
+
                 <Form.Group className="mb-3">
                     <Form.Label className="loginText">Card Number*</Form.Label>
                     <CardNumberElement
