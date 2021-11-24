@@ -210,38 +210,85 @@ const Payment = (props) => {
     return (
         <React.Fragment>
             {props.useStripe && cartOrder && <Form onSubmit={submitHandler}>
-                {/* Card Number */}
+            {/* Card Number */}
 
                 <Form.Group className="mb-3">
+                    <Form.Label className="loginText">Card Number*</Form.Label>
+                    <CardElement
+                        className="form-control"
+                        options={options}
+                    />
+                </Form.Group> 
+            {auth.users && <button id="pay_btn" type="submit" className="addButton btnWide" disabled={!stripe}>
+                    Pay {props.totalPrice.toFixed(2)}
+                </button>}
+                {!auth.users && <a href="/auth/google">Login with Google to Checkout</a>}
+            </Form>}
+
+            {/* {props.useStripe && cartOrder && <form onSubmit={submitHandler}>
+
+            <label htmlFor="fname">Card Number</label>
+            {props.useStripe && <CardElement 
+                className="form-control"
+                options={options}>
+            </CardElement>} */}
+
+            {/* <label htmlFor="fname">Card Number</label>
+            <CardNumberElement
+                        className="form-control"
+                        options={options}
+                    />
+            <label htmlFor="fname">Expire Date</label>
+            <CardExpiryElement
+                        className="form-control"
+                        options={options}
+                    />  
+
+            <label htmlFor="fname">CVC</label>
+            <CardCvcElement
+                        className="form-control"
+                        options={options}
+                    /> */}
+
+            {/* {auth.users && <button id="pay_btn" type="submit" className="addButton btnWide" disabled={!stripe}>
+                    Pay {props.totalPrice.toFixed(2)}
+                    </button>}
+            </form>} */}
+
+            
+
+            {/* {props.useStripe && cartOrder && <Form onSubmit={submitHandler}> */}
+                {/* Card Number */}
+
+                {/* <Form.Group className="mb-3">
                     <Form.Label className="loginText">Card Number*</Form.Label>
                     <CardNumberElement
                         className="form-control"
                         options={options}
                     />
-                </Form.Group>
+                </Form.Group> */}
                 {/* CardExpiryElement*/}
-                <Form.Group className="mb-3">
+                {/* <Form.Group className="mb-3">
                     <Form.Label className="loginText">Card Number*</Form.Label>
                     <CardExpiryElement
                         className="form-control"
                         options={options}
                     />
-                </Form.Group>
+                </Form.Group> */}
                 {/* CardCvcElement */}
-                <Form.Group className="mb-3">
+                {/* <Form.Group className="mb-3">
                     <Form.Label className="loginText">Card Number*</Form.Label>
                     <CardCvcElement
                         className="form-control"
                         options={options}
                     />
-                </Form.Group>
+                </Form.Group> */}
                 
-                {auth.users && <button id="pay_btn" type="submit" className="addButton btnWide" disabled={!stripe}>
-                    {/* Pay {(Number((addTotalPrice(orderInfo) * .1)) + Number((addTotalPrice(orderInfo)))).toFixed(2)} */}
+                {/* {auth.users && <button id="pay_btn" type="submit" className="addButton btnWide" disabled={!stripe}>
                     Pay {props.totalPrice.toFixed(2)}
                 </button>}
                 {!auth.users && <a href="/auth/google">Login with Google to Checkout</a>}
-            </Form>}
+            </Form>} */}
             {props.useStripe === false && 
             <Paypal 
                 totalPrice={props.totalPrice.toFixed(2)}

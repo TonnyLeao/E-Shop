@@ -34,7 +34,11 @@ import { loadStripe } from '@stripe/stripe-js';
 
 function App() {
 
-  const [stripeApiKey, setStripeApiKey] = useState('');
+  // const [stripeApiKey, setStripeApiKey] = useState('');
+  // const [stripeApiKey, setStripeApiKey] = useState(() => loadStripe('pk_test_51JTW2nLp9coM5IXarRXE3FKA4Df95cADC07u5is7SQRmay7kA2kehNnU5MvYF7ZrunbCIMOuUZhbC1jTC3KjgYwQ00TJS9Ogio'))
+
+  const stripePubKey = 'pk_test_51JTW2nLp9coM5IXarRXE3FKA4Df95cADC07u5is7SQRmay7kA2kehNnU5MvYF7ZrunbCIMOuUZhbC1jTC3KjgYwQ00TJS9Ogio';
+  const stripePromise = loadStripe(stripePubKey);
 
   const dispatch = useDispatch();
   const auth = useSelector(state => state.auth)
@@ -124,12 +128,12 @@ function App() {
     dispatch(getProduct())
     dispatch(getOrder())
 
-    async function getStripeApiKey() {
-      const data = await fetch('/api/v1/stripeapi').then(
-        res => res.json())
-      setStripeApiKey(data.stripeApiKey)
-    }
-    getStripeApiKey();
+    // async function getStripeApiKey() {
+    //   const data = await fetch('/api/v1/stripeapi').then(
+    //     res => res.json())
+    //   setStripeApiKey(data.stripeApiKey)
+    // }
+    // getStripeApiKey();
 
   }, [dispatch])
 
@@ -333,7 +337,13 @@ function App() {
             <Elements stripe={loadStripe(stripeApiKey)}>
               <Payout setOpenModal={setOpenModal}></Payout>
             </Elements>} */}
-            <Elements stripe={loadStripe(stripeApiKey)}>
+
+            {/* <Elements stripe={loadStripe(stripeApiKey)}>
+              <Payout setOpenModal={setOpenModal}></Payout>
+            </Elements> */}
+
+            
+            <Elements stripe={stripePromise}>
               <Payout setOpenModal={setOpenModal}></Payout>
             </Elements>
         </Route>
