@@ -136,10 +136,6 @@ function App() {
 
   const showCart = useSelector(state => state.ui.cartIsVisible)
 
-  if(stripeApiKey){
-    console.log(stripeApiKey, "this is the api Key@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
-  }
-
   return (
     <div>
       {/* {stripeApiKey &&
@@ -333,13 +329,13 @@ function App() {
         </Route>
 
         <Route path='/payout' exact>
-            {stripeApiKey &&
+            {/* {stripeApiKey &&
             <Elements stripe={loadStripe(stripeApiKey)}>
               <Payout setOpenModal={setOpenModal}></Payout>
-            </Elements>}
-            {/* <Elements stripe={loadStripe(stripeApiKey)}>
+            </Elements>} */}
+            <Elements stripe={loadStripe(stripeApiKey)}>
               <Payout setOpenModal={setOpenModal}></Payout>
-            </Elements> */}
+            </Elements>
         </Route>
 
       </Switch>
