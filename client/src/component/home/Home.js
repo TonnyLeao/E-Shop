@@ -41,10 +41,17 @@ const Home = () => {
     const orderInfo = JSON.parse(localStorage.getItem('cartItems'));
 
     // console.log(orderInfo, "this is from the localstroage!~!!!#@#");
+    let newOrderInfo;
 
-    const newOrderInfo = {
-        cartItems:[...orderInfo]
+    if(orderInfo) {
+         newOrderInfo = {
+            cartItems:[...orderInfo]
+        }
     }
+    
+    // const newOrderInfo = {
+    //     cartItems:[...orderInfo]
+    // }
 
     // console.log(newOrderInfo, "this is the newINFO WITH CARTITEMS@@#@#")
 
