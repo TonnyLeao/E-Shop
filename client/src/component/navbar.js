@@ -45,7 +45,7 @@ const NavBarComp = (props) => {
 
     let newOrderInfo
 
-    if(localOrder.length > 0) {
+    if(localOrder) {
          newOrderInfo = {
             cartItems:[...localOrder]
         }
