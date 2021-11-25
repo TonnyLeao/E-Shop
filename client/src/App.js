@@ -343,9 +343,9 @@ function App() {
             </Elements> */}
 
             
-            <Elements stripe={stripePromise}>
+            {stripePromise && <Elements stripe={stripePromise}>
               <Payout setOpenModal={setOpenModal}></Payout>
-            </Elements>
+            </Elements>}
         </Route>
 
       </Switch>
