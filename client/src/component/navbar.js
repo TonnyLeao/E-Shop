@@ -43,9 +43,18 @@ const NavBarComp = (props) => {
     
     const localOrder = JSON.parse(localStorage.getItem('cartItems'));
 
-    const newOrderInfo = {
-        cartItems:[...localOrder]
+    let newOrderInfo
+
+    if(localOrder.length > 0) {
+         newOrderInfo = {
+            cartItems:[...localOrder]
+        }
+        console.log(localOrder, "THIS IS GREATER THAN 0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
     }
+
+    // const newOrderInfo = {
+    //     cartItems:[...localOrder]
+    // }
 
     console.log(localOrder, "LocalStorage Info")
 
