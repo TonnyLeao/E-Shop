@@ -138,10 +138,9 @@ const Payment = (props) => {
 
         try {
             const config = {
-                headers: {
+                header: {
                     'Content-Type': 'application/json',
-                    // 'Authorization': 'Bearer pk_test_51JTW2nLp9coM5IXarRXE3FKA4Df95cADC07u5is7SQRmay7kA2kehNnU5MvYF7ZrunbCIMOuUZhbC1jTC3KjgYwQ00TJS9Ogio',
-                    Authorization: 'Bearer pk_test_51JTW2nLp9coM5IXarRXE3FKA4Df95cADC07u5is7SQRmay7kA2kehNnU5MvYF7ZrunbCIMOuUZhbC1jTC3KjgYwQ00TJS9Ogio'
+                    'Authorization': 'Bearer pk_test_51JTW2nLp9coM5IXarRXE3FKA4Df95cADC07u5is7SQRmay7kA2kehNnU5MvYF7ZrunbCIMOuUZhbC1jTC3KjgYwQ00TJS9Ogio',
                 }
             }
 
