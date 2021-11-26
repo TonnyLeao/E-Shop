@@ -10,7 +10,9 @@ const DisplayHomeImg = () => {
     const cardData = storeImg.map((cardData, index) => {
         return (
             <Col key={index} lg={4} md={3} sm={8} className="my-3">
-                <img className="imgSize" src={cardData.imgSrc}></img>
+                <a href={cardData.imgLink}>
+                <img  className="imgSize" src={cardData.imgSrc}></img>
+                </a>
                 <div className="text-center my-3">
                     <h4>{cardData.bottomText}</h4>   
                     <h5>Shop Now</h5>

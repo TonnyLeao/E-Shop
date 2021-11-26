@@ -199,7 +199,7 @@ const NavBarComp = (props) => {
                                 <Col className="column1">
                                     <NavDropdown.Item href="/men/jeans">Jeans</NavDropdown.Item>
                                     <NavDropdown.Item href="/men/shirts">Shirts</NavDropdown.Item>
-                                    <NavDropdown.Item href="/men/sweaters">Sweathers</NavDropdown.Item>
+                                    <NavDropdown.Item href="/men/sweaters">Sweaters</NavDropdown.Item>
                                     <NavDropdown.Item href="/men/buttonDownShirts">Button Down Shirts</NavDropdown.Item>
                                 </Col>
                                 <Col className="column1 categoryPictureAlign">
@@ -221,7 +221,7 @@ const NavBarComp = (props) => {
                                     <NavDropdown.Item href="/women/dresses">Dresses</NavDropdown.Item>
                                 </Col>
                                 <Col className="column1 categoryPictureAlign">
-                                    <img className="categoryPicture" src="/shopIMG/womenIMG/womenShop3.png"></img>
+                                    <img className="categoryPicture" src="/shopIMG/womenIMG/womenshop2.png"></img>
                                 </Col>
                             </Row>
                         </NavDropdown>

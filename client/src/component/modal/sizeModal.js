@@ -34,7 +34,7 @@ function SizeModal(props) {
       </Modal.Header>
       <Container>
         <Row>
-          <Col><p className="sizeModalTopHeaderFont">Express {props.gender == "Female" ? "Women's" : "Men's"} Sizing</p></Col>
+          <Col><p className="sizeModalTopHeaderFont">E-Shop {props.gender == "Female" ? "Women's" : "Men's"} Sizing</p></Col>
         </Row>
       </Container>
       <Row>

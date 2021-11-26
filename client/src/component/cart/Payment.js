@@ -11,8 +11,6 @@ import { useHistory } from "react-router-dom";
 
 const axios = require('axios');
 
-// const stripe = require("stripe")(process.env.stripeSecretKey);
-
 const Payment = (props) => {
 
     const stripe = useStripe();
@@ -128,7 +126,6 @@ const Payment = (props) => {
     const paymentData = {
         // amount: Math.round(addTotalPrice(orderInfo) * 100)
         amount: Math.round((Number(props.totalPrice) * 100).toFixed(2))
-        // amount: 1000
     }
 
 
@@ -143,7 +140,6 @@ const Payment = (props) => {
             const config = {
                 headers: {
                     'Content-Type': 'application/json',
-                    'Authorization': 'Bearer pk_test_51JTW2nLp9coM5IXarRXE3FKA4Df95cADC07u5is7SQRmay7kA2kehNnU5MvYF7ZrunbCIMOuUZhbC1jTC3KjgYwQ00TJS9Ogio',
                 }
             }
 
@@ -151,7 +147,6 @@ const Payment = (props) => {
             {
                 // headers: {
                 //     'Content-Type': 'application/x-www-form-urlencoded',
-                //     'Authorization': 'bearer sk_test_51JTW2nLp9coM5IXarqLlarREgEvc72kRvJN13kM4dHKZjJdeUa9eKPL7M4ZTdDzjveRrO72UD7k7iJGvlRyhlTDV00AIZuOTea',
                 // }
             })
 
