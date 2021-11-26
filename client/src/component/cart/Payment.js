@@ -128,6 +128,7 @@ const Payment = (props) => {
     const paymentData = {
         // amount: Math.round(addTotalPrice(orderInfo) * 100)
         amount: Math.round((Number(props.totalPrice) * 100).toFixed(2))
+        // amount: 1000
     }
 
 
@@ -146,13 +147,12 @@ const Payment = (props) => {
                 }
             }
 
-            res = await axios.post('/api/v1/payment/process', {
-                amount: Math.round((Number(props.totalPrice) * 100).toFixed(2))
-            }, {
-                headers: {
-                    'Content-Type': 'application/x-www-form-urlencoded',
-                    'Authorization': 'bearer sk_test_51JTW2nLp9coM5IXarqLlarREgEvc72kRvJN13kM4dHKZjJdeUa9eKPL7M4ZTdDzjveRrO72UD7k7iJGvlRyhlTDV00AIZuOTea',
-                  }
+            res = await axios.post('/api/v1/payment/process', paymentData, 
+            {
+                // headers: {
+                //     'Content-Type': 'application/x-www-form-urlencoded',
+                //     'Authorization': 'bearer sk_test_51JTW2nLp9coM5IXarqLlarREgEvc72kRvJN13kM4dHKZjJdeUa9eKPL7M4ZTdDzjveRrO72UD7k7iJGvlRyhlTDV00AIZuOTea',
+                // }
             })
 
             const clientSecret = res.data.client_secret;
