@@ -11,6 +11,8 @@ import { useHistory } from "react-router-dom";
 
 const axios = require('axios');
 
+// const stripe = require("stripe")(process.env.stripeSecretKey);
+
 const Payment = (props) => {
 
     const stripe = useStripe();
