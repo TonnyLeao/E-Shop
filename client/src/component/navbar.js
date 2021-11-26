@@ -28,8 +28,6 @@ const NavBarComp = (props) => {
 
     const [cartOrder, setCartOrder] = useState('');
 
-    console.log(auth.users.googleId, "this is the auth state google ID!")
-
     const runOnce = () => {
         setModalShow(true);
         props.setOpenModal(false);
@@ -49,7 +47,7 @@ const NavBarComp = (props) => {
          newOrderInfo = {
             cartItems:[...localOrder]
         }
-        console.log(localOrder, "THIS IS GREATER THAN 0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
+        console.log(localOrder, "IF localOrder exist!!!!")
     }
 
     // const newOrderInfo = {
@@ -90,50 +88,24 @@ const NavBarComp = (props) => {
             console.log(response.data.cart , "this is the cart@@@")
         }).catch(function(error){
             console.log(error)
-        })  
-
-        if(auth.status === "success" && !waitForCart) {
+        })
         
-            console.log(cartOrder, "THIS IS THE CARTORDER STATE@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
-            console.log("U ARE LOGGED IN GOOGLE AND THERE IS NO CARTORDER IN THE BACKKKKKKKKK")
+            if(auth) {
+                console.log("WE HAVE AN AUTH!!!")
 
-            axios.post('/api/v1/addguestcart', newOrderInfo)
-            .then(function(response){
-                console.log(response)
-            }).catch(function(error){
-                console.log(error)
+                axios.post('/api/v1/addguestcart', newOrderInfo)
+                    .then(function(response){
+                        console.log(response)
+                    }).catch(function(error){
+                        console.log(error)
+                })
+            }
 
-                //if(auth.users.googleId && localTotalQty !== cartTotalQty)
-                //auth.users.googleId && waitForCart > 0
-        }) 
-        } else if(auth.status === "success" && localTotalQty !== cartTotalQty) {
-            console.log("YOU ARE LOGGED IN AND THE LOCAL DOES NOT MATCH THE BACKEND")
+            localStorage.setItem('cartItems',JSON.stringify([]))
+            localStorage.setItem('totalQuanity', JSON.stringify(0))
 
-            axios.post('/api/v1/addguestcart', newOrderInfo)
-            .then(function(response){
-                console.log(response)
-            }).catch(function(error){
-                console.log(error)
-            })
-        } else if (auth.status === "success" && localTotalQty > 0 && cartTotalQty > 0) {
-            console.log("YOU ARE LOGGED IN AND THE LOCAL IS GREATER THAN 0 AND BackendD is greater than 0")
-
-            axios.post('/api/v1/addguestcart', newOrderInfo)
-            .then(function(response){
-                console.log(response)
-            }).catch(function(error){
-                console.log(error)
-            })
-        }
-
-        localStorage.setItem('cartItems',JSON.stringify([]))
-        localStorage.setItem('totalQuanity', JSON.stringify(0))
-
-        history.go(0)
-
-        } else {
-            // console.log("@@@@@@@@@@@@@@@@@@LOCAL IS ZERO@@@@@@@@@@@@@@")
-        }
+            history.go(0)
+        } 
 
         // await axios.get('/api/v1/getcart')
         // .then(function(response){
