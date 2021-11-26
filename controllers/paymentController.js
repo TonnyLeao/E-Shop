@@ -5,9 +5,8 @@ const stripe = require('stripe')(keys.STRIPE_SECRET_KEY);
 // Process stripe payments => /api/v1/payment/process
 exports.processPayment = async(req, res, next) => {
     const paymentIntent = await stripe.paymentIntents.create({
-        amount: 50,
+        amount: req.body.amount,
         currency: 'usd',
-        //amount: req.body.amount,
         metadata: { integration_check: 'accept_a_payment'}
     })
 

@@ -146,7 +146,9 @@ const Payment = (props) => {
                 }
             }
 
-            res = await axios.post('/api/v1/payment/process', paymentData, {
+            res = await axios.post('/api/v1/payment/process', {
+                amount: Math.round((Number(props.totalPrice) * 100).toFixed(2))
+            }, {
                 headers: {
                     'Content-Type': 'application/x-www-form-urlencoded',
                     'Authorization': 'bearer sk_test_51JTW2nLp9coM5IXarqLlarREgEvc72kRvJN13kM4dHKZjJdeUa9eKPL7M4ZTdDzjveRrO72UD7k7iJGvlRyhlTDV00AIZuOTea',
