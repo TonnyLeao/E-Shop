@@ -91,7 +91,6 @@ const NavBarComp = (props) => {
         })
         
             if(auth) {
-                console.log("WE HAVE AN AUTH!!!")
 
                 axios.post('/api/v1/addguestcart', newOrderInfo)
                     .then(function(response){
