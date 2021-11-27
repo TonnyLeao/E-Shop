@@ -36,7 +36,6 @@ const LoginForm = () => {
     }
 
     const login = (username, password) => {
-        console.log(username, password)
 
        return axios.post('/api/users/login', {
             username: username,
