@@ -1,0 +1,24 @@
+.orderSuccessLogo {
+    font-size: 200px;
+    color: green;
+}
+
+.orderSuccessCenter {
+    text-align: center;
+}
+
+.orderSuccessButton {
+    letter-spacing: 0.5px;
+    background-color: black;
+    border: 1px solid #b7b7b7;
+    cursor: pointer;
+    font-size: 22px;
+    color: white;
+    font-weight: 400;
+    border-radius: .4rem;
+    padding: 10px;
+    }
+
+.orderSuccessButton:hover {
+    background-color: gray;
+}

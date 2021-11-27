@@ -160,8 +160,8 @@ const Payment = (props) => {
 
             const result = await stripe.confirmCardPayment(clientSecret, {
                 payment_method: {
-                    // card: elements.getElement(CardNumberElement)
-                    card: elements.getElement(CardElement)
+                    card: elements.getElement(CardNumberElement)
+                    // card: elements.getElement(CardElement)
                 }
             });
 
@@ -215,7 +215,7 @@ const Payment = (props) => {
 
     return (
         <React.Fragment>
-            {props.useStripe && cartOrder && <Form onSubmit={submitHandler}>
+            {/* {props.useStripe && cartOrder && <Form onSubmit={submitHandler}>
 
                 <Form.Group className="mb-3">
                     <Form.Label className="loginText">Card Number*</Form.Label>
@@ -228,7 +228,7 @@ const Payment = (props) => {
                     Pay {props.totalPrice.toFixed(2)}
                 </button>}
                 {!auth.users && <a href="/auth/google">Login with Google to Checkout</a>}
-            </Form>}
+            </Form>} */}
 
             {/* {props.useStripe && cartOrder && <form onSubmit={submitHandler}>
 
@@ -253,47 +253,47 @@ const Payment = (props) => {
             <CardCvcElement
                         className="form-control"
                         options={options}
-                    /> */}
+                    /> 
 
-            {/* {auth.users && <button id="pay_btn" type="submit" className="addButton btnWide" disabled={!stripe}>
+            {auth.users && <button id="pay_btn" type="submit" className="addButton btnWide" disabled={!stripe}>
                     Pay {props.totalPrice.toFixed(2)}
-                    </button>}
-            </form>} */}
+                    </button>} */}
+            {/* </form> */}
 
             
 
-            {/* {props.useStripe && cartOrder && <Form onSubmit={submitHandler}> */}
+            {props.useStripe && cartOrder && <Form onSubmit={submitHandler}>
                 {/* Card Number */}
 
-                {/* <Form.Group className="mb-3">
+                <Form.Group className="mb-3">
                     <Form.Label className="loginText">Card Number*</Form.Label>
                     <CardNumberElement
                         className="form-control"
                         options={options}
                     />
-                </Form.Group> */}
+                </Form.Group>
                 {/* CardExpiryElement*/}
-                {/* <Form.Group className="mb-3">
+                <Form.Group className="mb-3">
                     <Form.Label className="loginText">Card Number*</Form.Label>
                     <CardExpiryElement
                         className="form-control"
                         options={options}
                     />
-                </Form.Group> */}
+                </Form.Group>
                 {/* CardCvcElement */}
-                {/* <Form.Group className="mb-3">
+                <Form.Group className="mb-3">
                     <Form.Label className="loginText">Card Number*</Form.Label>
                     <CardCvcElement
                         className="form-control"
                         options={options}
                     />
-                </Form.Group> */}
+                </Form.Group>
                 
-                {/* {auth.users && <button id="pay_btn" type="submit" className="addButton btnWide" disabled={!stripe}>
+                {auth.users && <button id="pay_btn" type="submit" className="addButton btnWide" disabled={!stripe}>
                     Pay {props.totalPrice.toFixed(2)}
                 </button>}
                 {!auth.users && <a href="/auth/google">Login with Google to Checkout</a>}
-            </Form>} */}
+            </Form>}
             {props.useStripe === false && 
             <Paypal 
                 totalPrice={props.totalPrice.toFixed(2)}

@@ -4,7 +4,7 @@
         "gender": "Male",
         "price": 49.99,
         "description": "Super Skinny Faded Gray Temp Control Hyper Stretch Jeans",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Gray",
         "images": [
             {
@@ -22,7 +22,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews": 0,
         "reviews": []
     },
     {
@@ -30,7 +30,7 @@
         "gender": "Male",
         "price": 39.99,
         "description": "Skinny Ripped Medium Wash 4-Way Hyper Stretch Jeans",
-        "ratings": 3.5,
+        "ratings": 0,
         "color":"Blue",
         "images": [
             {
@@ -48,7 +48,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -56,7 +56,7 @@
         "gender": "Male",
         "price": 29.99,
         "description": "Slim Light Wash FlexX Jeans",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Blue",
         "images": [
             {
@@ -74,7 +74,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -82,7 +82,7 @@
         "gender": "Male",
         "price": 29.99,
         "description": "Skinny Black Hyper Stretch Jeans",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -100,7 +100,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -108,7 +108,7 @@
         "gender": "Male",
         "price": 49.99,
         "description": "Bootcut Medium Wash Hyper Stretch Jeans",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Blue",
         "images": [
             {
@@ -126,7 +126,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -134,7 +134,7 @@
         "gender": "Male",
         "price": 59.99,
         "description": "Skinny White Destroyed Temp Control Hyper Stretch Jeans",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"White",
         "images": [
             {
@@ -152,7 +152,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -160,7 +160,7 @@
         "gender": "Female",
         "price": 29.99,
         "description": "Mid Rise Light Pink Skinny Jeans",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Pink",
         "images": [
             {
@@ -178,7 +178,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -186,7 +186,7 @@
         "gender": "Female",
         "price": 39.99,
         "description": "Super High Waisted Black Cropped Straight Jeans",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -204,7 +204,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -212,7 +212,7 @@
         "gender": "Female",
         "price": 69.99,
         "description": "High Waisted FlexX Faded Gray Raw Hem Skinny Jeans",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Gray",
         "images": [
             {
@@ -230,7 +230,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -238,7 +238,7 @@
         "gender": "Female",
         "price": 39.99,
         "description": "High Waisted Black Flare Jeans",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -256,7 +256,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -264,7 +264,7 @@
         "gender": "Female",
         "price": 59.99,
         "description": "Mid Rise Rolled Hem Ripped Boyfriend Jean",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Blue",
         "images": [
             {
@@ -282,7 +282,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -290,7 +290,7 @@
         "gender": "Female",
         "price": 49.99,
         "description": "Super High Waisted Black Ripped Slim Jeans",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -308,7 +308,7 @@
         ],
         "category": "Jeans",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -316,7 +316,7 @@
         "gender": "Male",
         "price": 29.99,
         "description": "Solid Stretch Crew Neck Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"White",
         "images": [
             {
@@ -334,7 +334,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -342,7 +342,7 @@
         "gender": "Male",
         "price": 39.99,
         "description": "Solid Shawl Collar Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"White",
         "images": [
             {
@@ -360,7 +360,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -368,7 +368,7 @@
         "gender": "Male",
         "price": 49.99,
         "description": "Solid Merino Wool Turtleneck Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Blue",
         "images": [
             {
@@ -386,7 +386,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -394,7 +394,7 @@
         "gender": "Male",
         "price": 29.99,
         "description": "Solid Waffle Knit Henley Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Green",
         "images": [
             {
@@ -412,7 +412,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -420,7 +420,7 @@
         "gender": "Male",
         "price": 39.99,
         "description": "Solid Seed Stitch Crew Neck Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -438,7 +438,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -446,7 +446,7 @@
         "gender": "Male",
         "price": 49.99,
         "description": "Windowpane Cotton Crewneck Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -464,7 +464,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -472,7 +472,7 @@
         "gender": "Female",
         "price": 49.99,
         "description": "CRESCENT Arielle Cold Shoulder Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -490,7 +490,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -498,7 +498,7 @@
         "gender": "Female",
         "price": 39.99,
         "description": "Ribbed Dolman Sleeve Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -516,7 +516,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -524,7 +524,7 @@
         "gender": "Female",
         "price": 29.99,
         "description": "Off The Shoulder Tunic Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Pink",
         "images": [
             {
@@ -542,7 +542,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -550,7 +550,7 @@
         "gender": "Female",
         "price": 39.99,
         "description": "Cozy Twist Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Pink",
         "images": [
             {
@@ -568,7 +568,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -576,7 +576,7 @@
         "gender": "Female",
         "price": 29.99,
         "description": "Seamed V-Neck Tunic Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Maroon",
         "images": [
             {
@@ -594,7 +594,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -602,7 +602,7 @@
         "gender": "Female",
         "price": 39.99,
         "description": "Ribbed Fitted Turtleneck Sweater",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"White",
         "images": [
             {
@@ -620,7 +620,7 @@
         ],
         "category": "Sweaters",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -628,7 +628,7 @@
         "gender": "Male",
         "price": 29.99,
         "description": "Gray Express Graphic Long Sleeve T-Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Gray",
         "images": [
             {
@@ -646,7 +646,7 @@
         ],
         "category": "Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -654,7 +654,7 @@
         "gender": "Male",
         "price": 39.99,
         "description": "Green Geo Print Long Sleeve Graphic T-Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Green",
         "images": [
             {
@@ -672,7 +672,7 @@
         ],
         "category": "Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -680,7 +680,7 @@
         "gender": "Male",
         "price": 29.99,
         "description": "Solid Essential Crew Neck T-Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -698,7 +698,7 @@
         ],
         "category": "Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -706,7 +706,7 @@
         "gender": "Male",
         "price": 69.99,
         "description": "Solid Turtleneck T-Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -724,7 +724,7 @@
         ],
         "category": "Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -732,7 +732,7 @@
         "gender": "Male",
         "price": 39.99,
         "description": "Solid Moisture-Wicking Performance Short Sleeve",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"White",
         "images": [
             {
@@ -750,7 +750,7 @@
         ],
         "category": "Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -758,7 +758,7 @@
         "gender": "Male",
         "price": 29.99,
         "description": "White Pieced Logo Graphic T-Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"White",
         "images": [
             {
@@ -776,7 +776,7 @@
         ],
         "category": "Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -784,7 +784,7 @@
         "gender": "Female",
         "price": 29.99,
         "description": "Solid Ruched Twist Front Long Sleeve Tee",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Green",
         "images": [
             {
@@ -802,7 +802,7 @@
         ],
         "category": "Tops",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -810,7 +810,7 @@
         "gender": "Female",
         "price": 39.99,
         "description": "Satin Banded Bottom Cowl Neck Top",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Purple",
         "images": [
             {
@@ -828,7 +828,7 @@
         ],
         "category": "Tops",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -836,7 +836,7 @@
         "gender": "Female",
         "price": 69.99,
         "description": "Lace And Leather Cropped Top",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -854,7 +854,7 @@
         ],
         "category": "Tops",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -862,7 +862,7 @@
         "gender": "Female",
         "price": 39.99,
         "description": "Ruffle Off The Shoulder Top",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -880,7 +880,7 @@
         ],
         "category": "Tops",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -888,7 +888,7 @@
         "gender": "Female",
         "price": 69.99,
         "description": "Sheer Floral Organza Sleeve Crew Neck Top",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"White",
         "images": [
             {
@@ -906,7 +906,7 @@
         ],
         "category": "Tops",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -914,7 +914,7 @@
         "gender": "Female",
         "price": 29.99,
         "description": "Ribbed Faux Wrap Tie Waist Long Sleeve Top",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"White",
         "images": [
             {
@@ -932,7 +932,7 @@
         ],
         "category": "Tops",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -940,7 +940,7 @@
         "gender": "Male",
         "price": 39.99,
         "description": "Slim Black Hyper Stretch Denim Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -958,7 +958,7 @@
         ],
         "category": "Button Down Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     },
     {
@@ -966,7 +966,7 @@
         "gender": "Male",
         "price": 49.99,
         "description": "Slim Dot Print Stretch Corduroy Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Red",
         "images": [
             {
@@ -984,7 +984,7 @@
         ],
         "category": "Button Down Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -992,7 +992,7 @@
         "gender": "Male",
         "price": 49.99,
         "description": "Slim Solid Stretch Oxford Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Blue",
         "images": [
             {
@@ -1010,7 +1010,7 @@
         ],
         "category": "Button Down Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -1018,7 +1018,7 @@
         "gender": "Male",
         "price": 29.99,
         "description": "Slim Solid Stretch Lightweight Cotton Short Sleeve Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -1036,7 +1036,7 @@
         ],
         "category": "Button Down Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -1044,7 +1044,7 @@
         "gender": "Male",
         "price": 59.99,
         "description": "Slim Plaid Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Gray",
         "images": [
             {
@@ -1062,7 +1062,7 @@
         ],
         "category": "Button Down Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -1070,7 +1070,7 @@
         "gender": "Male",
         "price": 39.99,
         "description": "Slim Solid Stretch Flannel Shirt",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Gray",
         "images": [
             {
@@ -1088,7 +1088,7 @@
         ],
         "category": "Button Down Shirts",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -1096,7 +1096,7 @@
         "gender": "Female",
         "price": 39.99,
         "description": "Ruffle Wrap Fit And Flare Dress",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -1114,7 +1114,7 @@
         ],
         "category": "Dresses",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -1122,7 +1122,7 @@
         "gender": "Female",
         "price": 59.99,
         "description": "Puff Sleeve Sheath Dress",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Black",
         "images": [
             {
@@ -1140,7 +1140,7 @@
         ],
         "category": "Dresses",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -1148,7 +1148,7 @@
         "gender": "Female",
         "price": 39.99,
         "description": "Balloon Sleeve Fit And Flare Dress",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"White",
         "images": [
             {
@@ -1166,7 +1166,7 @@
         ],
         "category": "Dresses",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -1174,7 +1174,7 @@
         "gender": "Female",
         "price": 89.99,
         "description": "Draped Mock Neck Midi Sheath Dress",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"White",
         "images": [
             {
@@ -1192,7 +1192,7 @@
         ],
         "category": "Dresses",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -1200,7 +1200,7 @@
         "gender": "Female",
         "price": 79.99,
         "description": "Satin Cowl Neck Midi Slip Dress",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Purple",
         "images": [
             {
@@ -1218,7 +1218,7 @@
         ],
         "category": "Dresses",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }, 
     {
@@ -1226,7 +1226,7 @@
         "gender": "Female",
         "price": 29.99,
         "description": "Square Neck Wrap Sheath Dress",
-        "ratings": 4.5,
+        "ratings": 0,
         "color":"Blue",
         "images": [
             {
@@ -1244,7 +1244,7 @@
         ],
         "category": "Dresses",
         "stock": 50,
-        "numOfReviews": 32,
+        "numOfReviews":0,
         "reviews": []
     }
 ]
