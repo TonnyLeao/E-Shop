@@ -148,7 +148,6 @@ const CartItems = (props) => {
             </Col>
             <Col>
                 <p className="reviewCartText"><button className="addLeftCartButton" disabled={removeButton} onClick={removeItemHandler}>-</button>  {props.quantity}  <button className="addRightCartButton" disabled={addButton} onClick={addItemHandler}>+</button></p>
-                
             </Col>
             <Col>
                 <p className="reviewCartTextBold">${props.totalPrice.toFixed(2)}</p>
