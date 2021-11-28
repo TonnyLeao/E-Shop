@@ -22,6 +22,7 @@ const cartSlice = createSlice({
                     totalPrice: newItem.price,
                     name: newItem.name,
                     image: newItem.image,
+                    gender: newItem.gender,
 
                     //under is new
                     waistSize: newItem.waistSize,

@@ -122,6 +122,7 @@ const CartItems = (props) => {
                 name: props.name,
                 price: props.price,
                 image: props.image,
+                gender: props.gender,
     
                 //new stuff under
                 waistSize: props.waistSize,

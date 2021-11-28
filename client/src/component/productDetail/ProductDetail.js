@@ -84,6 +84,7 @@ const ProductDetail = (props) => {
                 name: props.image[idArr.indexOf(params.productId)].name,
                 price: props.image[idArr.indexOf(params.productId)].price,
                 image: props.image[idArr.indexOf(params.productId)].images[0].url,
+                gender: props.image[idArr.indexOf(params.productId)].gender,
     
                 //new stuff under
                 waistSize: cloth2State,

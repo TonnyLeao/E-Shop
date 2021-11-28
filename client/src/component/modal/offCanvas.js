@@ -46,6 +46,7 @@ function OffCanvas({ name, ...props }) {
         name: props.image[props.index].name,
         price: props.image[props.index].price,
         image: props.image[props.index].images[0].url,
+        gender: props.image[props.index].gender,
 
         //new stuff under
         waistSize: cloth2State,
