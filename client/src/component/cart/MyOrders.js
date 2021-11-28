@@ -46,7 +46,14 @@ const MyOrders = () => {
                                     </Col>
                                     <Col sm={3} className="px-4 mt-5">
                                         <span>{data.name}</span>
-                                        <p>Size: {!isNaN(data.lengthSize) && ("W" + data.lengthSize)} {isNaN(data.lengthSize) && data.lengthSize} {!isNaN(data.waistSize) && data.waistSize.length > 0 && ("L" + data.waistSize)} {isNaN(data.waistSize) && data.waistSize}</p>
+                                        <p>Size: {' '}
+                                            {!isNaN(data.lengthSize) && data.gender !== "Female" && ("W" + data.lengthSize)} 
+                                            {!isNaN(data.lengthSize) && data.gender === "Female" && data.category === "Jeans" && (data.lengthSize)} 
+                                            {isNaN(data.lengthSize) && data.lengthSize} {' '}
+                                            {!isNaN(data.waistSize) && data.waistSize.length > 0 && ("L" + data.waistSize)} 
+                                            <span>{isNaN(data.waistSize) && data.category === "Jeans" && data.waistSize}</span>
+                                            <span>{isNaN(data.waistSize) && data.gender === "Male" && data.waistSize}</span>
+                                        </p>
                                     </Col>
                                     <Col sm={3} className="mt-5">
                                         <span>Qty: {data.quantity}</span>

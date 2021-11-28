@@ -51,7 +51,7 @@ const ProductDetail = (props) => {
     const [clothSize2, setClothSize2] = React.useState(false)
 
     const [cloth1State, setCloth1State] = React.useState("");
-    const [cloth2State, setCloth2State] = React.useState("");
+    const [cloth2State, setCloth2State] = React.useState("Regular");
 
     // console.log(clothSize1, "starting")
     // console.log(clothSize2, "starting")
@@ -72,7 +72,6 @@ const ProductDetail = (props) => {
     let idArr = [];
     for (let i = 0; i < props.image.length; i++) {
         idArr.push(props.image[i]._id);
-        console.log(idArr);
     }
 
     console.log(props.image[idArr.indexOf(params.productId)]._id, "this is the ID ON PRODUCT DETAIL@@@@@@@@!")
@@ -129,7 +128,7 @@ const ProductDetail = (props) => {
 
 
 
-    console.log(idArr.indexOf(params.productId), "does this work!?");
+    // console.log(idArr.indexOf(params.productId), "does this work!?");
 
     return (
         <React.Fragment>
@@ -195,7 +194,7 @@ const ProductDetail = (props) => {
                                         <span className="selectSizeFont">Select Size:</span>
                                         <SelectSize
                                             buttons={maleLength}
-                                            afterClick={printButtonLabel1}
+                                            afterClick={printButtonLabel2}
                                         />
                                     </Col>
 
@@ -205,7 +204,7 @@ const ProductDetail = (props) => {
                                 </Row>
                                 <ButtonGroups
                                     buttons={maleTopSize}
-                                    afterClick={printButtonLabel2}
+                                    afterClick={printButtonLabel1}
                                 />
                             </React.Fragment>}
 
@@ -216,7 +215,7 @@ const ProductDetail = (props) => {
                                         <span className="selectSizeFont">Select Size:</span>
                                         <SelectSize
                                             buttons={femaleLength}
-                                            afterClick={printButtonLabel1}
+                                            afterClick={printButtonLabel2}
                                         />
                                     </Col>
 
@@ -226,7 +225,7 @@ const ProductDetail = (props) => {
                                 </Row>
                                 <ButtonGroups
                                     buttons={femaleBottom}
-                                    afterClick={printButtonLabel2}
+                                    afterClick={printButtonLabel1}
                                 />
                             </React.Fragment>}
                         {props.image[idArr.indexOf(params.productId)].gender == "Female" && props.image[idArr.indexOf(params.productId)].category !== "Jeans" &&
@@ -296,7 +295,8 @@ const ProductDetail = (props) => {
                         <Row>
                             <Col className="mt-3">
                                 <div className="d-grid gap-2">
-                                    {props.image[idArr.indexOf(params.productId)].gender == "Female" && props.image[idArr.indexOf(params.productId)].category !== "Jeans" ? 
+                                    {props.image[idArr.indexOf(params.productId)].gender == "Female" || 
+                                     props.image[idArr.indexOf(params.productId)].category !== "Jeans" ?
                                     <button
                                         className="addButton"
                                         disabled={clothSize1 ? false : true}

@@ -143,7 +143,15 @@ const CartItems = (props) => {
             </Col>
             <Col sm={5}>
                 <p className="reviewCartText">{props.name}</p>
-                <p className="reviewCartText">Size: {!isNaN(props.lengthSize) && ("W" + props.lengthSize)} {isNaN(props.lengthSize) && props.lengthSize} {!isNaN(props.waistSize) && props.waistSize.length > 0 && ("L" + props.waistSize)} {isNaN(props.waistSize) && props.waistSize}</p>
+                <p className="reviewCartText">Size:{' '}
+                    {!isNaN(props.lengthSize) && props.gender !== "Female" && ("W" + props.lengthSize)} 
+                    {!isNaN(props.lengthSize) && props.gender === "Female" && props.category === "Jeans" && (props.lengthSize)} 
+                    {isNaN(props.lengthSize) && props.lengthSize} {' '}
+                    {!isNaN(props.waistSize) && props.waistSize.length > 0 && ("L" + props.waistSize)} 
+                    <span>{isNaN(props.waistSize) && props.category === "Jeans" && props.waistSize}</span>
+                    <span>{isNaN(props.waistSize) && props.gender === "Male" && props.waistSize}</span>
+                    </p> 
+                    
                 <p className="reviewCartText">Price: {props.price}</p>
             </Col>
             <Col>

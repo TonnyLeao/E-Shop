@@ -95,7 +95,7 @@ function OffCanvas({ name, ...props }) {
   const [clothSize2, setClothSize2] = React.useState(false)
 
   const [cloth1State, setCloth1State] = React.useState("");
-  const [cloth2State, setCloth2State] = React.useState("");
+  const [cloth2State, setCloth2State] = React.useState("Regular");
 
 
 
@@ -156,7 +156,7 @@ function OffCanvas({ name, ...props }) {
                       <span className="selectSizeFont">Select Size:</span>
                       <SelectSize
                         buttons={maleLength}
-                        afterClick={printButtonLabel1}
+                        afterClick={printButtonLabel2}
                       />
                     </Col>
 
@@ -166,7 +166,7 @@ function OffCanvas({ name, ...props }) {
                   </Row>
                   <ButtonGroups
                     buttons={maleTopSize}
-                    afterClick={printButtonLabel2}
+                    afterClick={printButtonLabel1}
                   />
                 </React.Fragment>}
 
@@ -178,7 +178,7 @@ function OffCanvas({ name, ...props }) {
                       <span className="selectSizeFont">Select Size:</span>
                       <SelectSize
                         buttons={femaleLength}
-                        afterClick={printButtonLabel1}
+                        afterClick={printButtonLabel2}
                       />
                     </Col>
 
@@ -188,7 +188,7 @@ function OffCanvas({ name, ...props }) {
                   </Row>
                   <ButtonGroups
                     buttons={femaleBottom}
-                    afterClick={printButtonLabel2}
+                    afterClick={printButtonLabel1}
                   />
                 </React.Fragment>}
               {props.image[props.index].gender === "Female" && props.image[props.index].category !== "Jeans" &&
@@ -227,7 +227,8 @@ function OffCanvas({ name, ...props }) {
               </Col>
               <Col>
                 <div className="d-grid gap-2 mt-4">
-                  {props.image[props.index].gender === "Female" && props.image[props.index].category !== "Jeans" ?
+                  {props.image[props.index].gender === "Female" ||
+                   props.image[props.index].category !== "Jeans" ?
                     <button
                       className="addButton"
                       onClick={addToCartHandler}

@@ -72,6 +72,33 @@ const orderSchema = new Schema({
                 required: true
 
             },
+            category: {
+                type: String,
+                required: [true, 'Please select category for this product'],
+                enum: {
+                    values: [
+                        'Jeans',
+                        'Shirts',
+                        'Dress Shirts',
+                        'Dress Pants',
+                        'Dresses',
+                        'Skirts',
+                        'Sweaters',
+                        'Shorts',
+                        'Tops',
+                        'Button Down Shirts'
+                    ],
+                    message: 'Please select correct category for product'
+                }
+            },
+            gender: {
+                type: String,
+                required: [true, 'Please enter a gender'],
+                enum: {
+                    values: ["Male", "Female"],
+                    message: 'Please select a gender'
+                }
+            },
 
         }
     ],

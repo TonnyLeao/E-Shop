@@ -2,11 +2,13 @@ import React, {useState} from "react";
 import './SelectSize.css'
 
 const SelectSize = (props) => {
-    const [clickedId, setClickedId] = useState(-1);
+    const [clickedId, setClickedId] = useState(1);
 
     const handleClick = (event, id) => {
         setClickedId(id);
         props.afterClick(event);
+        console.log(clickedId, "this is what is clicked!")
+        console.log(id, "this is the ID!")
         
     }
 
