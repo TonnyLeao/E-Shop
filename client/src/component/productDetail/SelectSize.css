@@ -12,6 +12,8 @@
 
     padding-left: 6px;
     padding-right: 6px;
+
+    
     }
 
 .activeButton2{
@@ -19,6 +21,7 @@
     color: Black;
     text-decoration: underline;
     text-decoration-thickness: 4px;
+    text-underline-offset: 2px;
     }
 
 /* .customButton2:hover {
