@@ -35,8 +35,8 @@ To run this application, you have to set your own environmental variables. For s
 * googleClientID: The developer key to use the google Oauth feature
 * googleClientSecret: The secret key to use for the google Oauth feature
 * mongoURI: This is the connection string to your MongoDB Atlas database
-* STRIPE_API_KEY: The stripe API key to use test cards 
-* STRIPE_SECRET_KEY: The stripe secret key to use test cards
+* STRIPE_API_KEY: The stripe API key to use stripe test cards 
+* STRIPE_SECRET_KEY: The stripe secret key to use stripe test cards
 
 
 
