@@ -32,7 +32,7 @@ E-Shop is an E-commerce website using the MERN stack. I wanted to build a fully 
 # Run
 To run this application, you have to set your own environmental variables. For security reasons, some variables have been hidden from view and used as environmental variables with the help of dotenv package. Below are the variables that you need to set in order to run the application:
 
-* googleClientID: The developer key to use the 0google Oauth feature
+* googleClientID: The developer key to use the google Oauth feature
 * googleClientSecret: The secret key to use for the google Oauth feature
 * mongoURI: This is the connection string to your MongoDB Atlas database
 * STRIPE_API_KEY: The stripe API key to use test cards 
