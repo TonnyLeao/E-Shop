@@ -1,7 +1,7 @@
 <a href="https://mighty-tundra-29925.herokuapp.com/">Deployed Site</a>
 
 # E-Shop
-E-Shop is an E-commerce website using the MERN stack. I wanted to build a fully featured E-commerce with secured backend and promote a frictionless user experience.  
+E-Shop is an E-commerce website using the MERN stack. I wanted to build a fully featured E-commerce with secured backend and engage users with a frictionless experience.  
 
 # Features
 * Multiple filtering for price and color
